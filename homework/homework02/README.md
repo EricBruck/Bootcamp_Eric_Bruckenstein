@@ -1,0 +1,2 @@
+# Stage 02 — Tooling Setup & Scaffold Practice
+This homework assignment demonstrates setting up a reproducible Python data science project scaffold within `homework/homework02/`. It includes managing virtual environments with Conda, isolating environment secrets using `.env` files, abstracting configuration loading in `src/config.py`, verifying notebook kernels with NumPy, and maintaining clean version control practices with Git.
